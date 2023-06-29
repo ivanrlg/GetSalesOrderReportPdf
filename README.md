@@ -18,3 +18,6 @@ Ensure accurate JSON input and efficient error handling for successful implement
 
 ## Future Updates
 Stay tuned for further updates and enhancements to the code.
+
+## More Information
+https://ivansingleton.dev/how-to-obtain-different-pdf-reports-of-sales-orders-through-webservices/
