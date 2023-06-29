@@ -8,6 +8,10 @@ The `ProcessReport` codeunit receives a JSON object with the parameters 'Documen
 ## Video 
 
 
+https://github.com/ivanrlg/GetSalesOrderReportPdf/assets/21310111/5bbe777b-c678-4cba-89a8-8104ae67ac4e
+
+
+
 
 ## Implementation
 Ensure accurate JSON input and efficient error handling for successful implementation. The AL code can be adapted to return different document types such as posted sales invoices.
